@@ -10,5 +10,12 @@
   "author": {
     "name": "Martin Hrášek",
     "email": "martin.hrasek@wanted.solutions"
+  },
+  "info": {
+    "companyName": "WANTED.solutions s.r.o.",
+    "productName": "MyCrew.online",
+    "productVersion": "0.1.0",
+    "copyright": "",
+    "comments": ""
   }
 }
